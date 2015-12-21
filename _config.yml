@@ -1,0 +1,28 @@
+name: YouniqueByKillaP
+favicon: null
+layout_spectrum: 0.3435051457490772
+typography_spectrum: 0.8077473265584558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9152297747787088
+  lightness: 0.07988098729401827
+  saturation: 0.8980708536691964
+  rhythmicContrast: 0.20010641892440617
+purpose: []
